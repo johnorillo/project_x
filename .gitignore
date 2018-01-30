@@ -1,0 +1,4 @@
+.vscode/
+# *.py
+# hash funtion comments the line
+*.pyc
